@@ -19,3 +19,6 @@ Web scraping is a term used to describe the use of a program or algorithm to ext
 * Step 2:  Run the data_cleaning_preprocessing_and_vectorizing.py file. This will clean and filter out the data. Next the filtered data will be fed to the TF-IDF Vectorizer and then the model will be pickled in a trained_model.pkl file and the Vocabulary of the trained model will be stored as vocab.pkl. Keep these two files in a folder named model_files. 
 * Step 3:  Now run the etsy_review_scrapper.py file. Adjust the range of pages and product to be scrapped as it might take a long long time to process. A small sized data is sufficient to check the accuracy of our model. The scrapped data will be stored in csv as well as db file. 
 * Step 4:  Finally, run the app.py file that will start up the Dash server and we can check the working of our model either by typing or either by selecting the preloaded scrapped reviews.
+  
+  **## For any queries/doubts 🔗 👇**
+   ### [AAYAN SHAIKH](https://amackcode.blogspot.com/)
